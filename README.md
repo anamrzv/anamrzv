@@ -4,11 +4,12 @@
 
 <h1 align="center">
   <div>Anastasiia</div>
-  <div>Middle SAP, TS, Node, Java Developer  </div>
+  <div>Middle SAP, Java, TS, Node.js Developer</div>
 </h1>
 <h2 align="center">
-  <div>>3 years of experience</div>
-  <div>Bachelor of Computer Science </div>
+  <div>4 years of professional developing experience</div>
+  <div>6 years of overall developing experience</div>
+  <div>Bachelor of Computer Science</div>
 </h2>
 
 ### :hammer_and_wrench: Languages and Tools :
