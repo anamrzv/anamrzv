@@ -9,7 +9,7 @@
 <h2 align="center">
   <div>4 years of professional developing experience</div>
   <div>6 years of overall developing experience</div>
-  <div>Bachelor of Computer Science</div>
+  <div>Master of Computer Science</div>
 </h2>
 
 ### :hammer_and_wrench: Technical Skills :
@@ -26,10 +26,10 @@
 </div>
 
 ### 💬 Languages :
-English C1
-German C1
-Chinese A2
-Russian C2
+- English C1
+- German C1
+- Chinese A2
+- Russian C2
 
 <!--
 **anamrzv/anamrzv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
