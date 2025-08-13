@@ -12,7 +12,7 @@
   <div>Bachelor of Computer Science</div>
 </h2>
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Technical Skills :
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
@@ -24,6 +24,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 </div>
+
+### 💬 Languages :
+English C1
+German C1
+Chinese A2
+Russian C2
 
 <!--
 **anamrzv/anamrzv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
